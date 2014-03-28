@@ -1,0 +1,13 @@
+Thu Mar 27 2014 18:53:00 GMT-0700 (PDT):
+[Error: No publish settings file found. Please use "azure account import" first]
+Error: No publish settings file found. Please use "azure account import" first
+    at AccountClient.__.extend.getSubscriptions (/Users/HR10/.nvm/v0.10.25/lib/node_modules/azure-cli/lib/commands/core/subscriptionclient.js:91:13)
+    at AzureCli.<anonymous> (/Users/HR10/.nvm/v0.10.25/lib/node_modules/azure-cli/lib/commands/account._js:48:39)
+    at AzureCli.<anonymous> (/Users/HR10/.nvm/v0.10.25/lib/node_modules/azure-cli/lib/cli.js:196:12)
+    at AzureCli.<anonymous> (/Users/HR10/.nvm/v0.10.25/lib/node_modules/azure-cli/node_modules/commander/lib/commander.js:235:8)
+    at AzureCli.EventEmitter.emit (events.js:98:17)
+    at AzureCli.Command.parseArgs (/Users/HR10/.nvm/v0.10.25/lib/node_modules/azure-cli/node_modules/commander/lib/commander.js:405:12)
+    at AzureCli.Command.parse (/Users/HR10/.nvm/v0.10.25/lib/node_modules/azure-cli/node_modules/commander/lib/commander.js:351:15)
+    at AzureCli.<anonymous> (/Users/HR10/.nvm/v0.10.25/lib/node_modules/azure-cli/lib/cli.js:521:38)
+    at AzureCli.EventEmitter.emit (events.js:95:17)
+    at AzureCli.Command.parseArgs (/Users/HR10/.nvm/v0.10.25/lib/node_modules/azure-cli/node_modules/commander/lib/commander.js:407:12)
